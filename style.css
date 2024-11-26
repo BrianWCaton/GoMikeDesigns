@@ -655,6 +655,12 @@ a {
   font-weight: 400;
   color: #575757 !important;
 }
+.intro_text h1 {
+  font-size: 38px;
+  color: blue !important;
+  text-align: center;
+  text-wrap: auto;
+}
 
 .container {
   max-width: 1000px;
@@ -779,7 +785,7 @@ h4 {
 }
 
 .bgc-atomic-tangerine {
-  background-color: #f3976c;
+  background-color: #bd3c00;
 }
 
 .tc-white {
