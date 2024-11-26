@@ -657,7 +657,7 @@ a {
 }
 .intro_text h1 {
   font-size: 38px;
-  color: blue;
+  color: #364577;
   text-align: center;
   text-wrap: auto;
 }
@@ -789,7 +789,7 @@ h4 {
 }
 
 .tc-white {
-  color: #364577;
+  color: #fff;
 }
 
 .btn-atomic-tangerine {
