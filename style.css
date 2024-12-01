@@ -66,10 +66,10 @@ a:hover {
 .bg-tr-edge,
 .bg-br-edge,
 .bg-repeat {
-  -webkit-background-size: auto ;
-  -moz-background-size: auto ;
-  -o-background-size: auto ;
-  background-size: auto ;
+  -webkit-background-size: auto;
+  -moz-background-size: auto;
+  -o-background-size: auto;
+  background-size: auto;
 }
 
 .bg-repeat {
@@ -343,7 +343,7 @@ a:hover {
 }
 
 .navbar-toggle:hover {
-  background: transparent ;
+  background: transparent;
 }
 
 .navbar-toggle .icon-bar {
@@ -505,7 +505,12 @@ button {
 .panel-rd .panel-footer {
   border-radius: 0 0 29px 29px;
 }
-
+.social-icon {
+  color: white;
+}
+.social-icon:hover {
+  color: orangered;
+}
 .form-control {
   border-color: rgba(0, 0, 0, 0.1);
   box-shadow: none;
