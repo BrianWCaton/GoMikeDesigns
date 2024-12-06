@@ -488,21 +488,16 @@ button {
   text-shadow: 0 1px 2px rgba(0, 0, 0, 0.3);
 }
 
-.panel-sq,
-.panel-sq .panel-heading,
-.panel-sq .panel-footer {
+.panel-heading,
+.panel-footer {
   border-radius: 0;
 }
 
-.panel-rd {
-  border-radius: 30px;
-}
-
-.panel-rd .panel-heading {
+.panel-heading {
   border-radius: 29px 29px 0 0;
 }
 
-.panel-rd .panel-footer {
+.panel-footer {
   border-radius: 0 0 29px 29px;
 }
 .social-icon {
@@ -511,6 +506,7 @@ button {
 .social-icon:hover {
   color: orangered;
 }
+
 .form-control {
   border-color: rgba(0, 0, 0, 0.1);
   box-shadow: none;
@@ -1017,9 +1013,7 @@ h4 {
   .a-block {
     padding: 0 10px;
   }
-  .btn-dwn {
-    display: none;
-  }
+
   .voffset {
     margin-top: 5px;
   }
